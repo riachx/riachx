@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Ria Chockalingam, a **programmer and 3D artist** (specializing in **Front-end** and **3D design**) and a **Computer Science B.S.** junior at UC Santa Cruz.
+🎓 My name is Ria Chockalingam - I'm a **programmer and 3D artist** (specializing in **Front-end** and **3D design**) and a **Computer Science B.S.** junior at UC Santa Cruz.
 
 👨‍💻 With about seven years of experience in **3D design** and around three years in **web development**, I've had the chance to intern as a web developer for Streetline Inc. and Tech4Good, intern as a **3D scripter** for CyArk, create websites like [**Spcwby.com**](https://spwcby.com/), and work as a **3D modeler** for a range of companies and startups. In addition to design, I have three years of experience with Python and C/C++.
 
