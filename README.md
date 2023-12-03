@@ -4,7 +4,7 @@
 
 🎓 My name is Ria Chockalingam - I'm a **programmer and 3D artist** (specializing in **Front-end** and **3D design**) and a **Computer Science B.S.** junior at UC Santa Cruz.
 
-👨‍💻 With about seven years of experience in **3D design** and around three years in **web development**, I've had the chance to intern as a web developer for Streetline Inc. and Tech4Good, intern as a **3D scripter** for CyArk, create websites like [**Spcwby.com**](https://spcwby.com/), and work as a **3D modeler** for a range of companies and startups. In addition to design, I have three years of experience with Python and C/C++.
+👨‍💻 With about seven years of experience in **3D design** and around three years in **web development**, I've had the chance to intern as a web developer for Streetline Inc. and Tech4Good, intern as a **3D scripter** for CyArk, create websites with **three.js** like [**Spcwby.com**](https://spcwby.com/), and work as a **3D modeler** for a range of companies and startups. In addition to design, I have three years of experience with Python and C/C++.
 
 ## ⭐ Coursework
 -   📕 **CSE 20** Introduction to Python 
@@ -23,7 +23,6 @@
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
