@@ -7,14 +7,14 @@ My name is Ria - I'm a third-year UC Santa Cruz **Computer Science B.S.** studen
 With about seven years of experience in **3D design** and around three years in **web development**, I've had the chance to intern as a web developer for Streetline Inc. and [**Tech4Good**](https://tech4good.soe.ucsc.edu/#/), intern as a **3D scripter** for [**CyArk**](https://www.cyark.org/), create websites like [**Spcwby.com**](https://spcwby.com/), and work as a **3D modeler** for a range of companies and startups. In addition to design, I have three years of experience with Python and C/C++.
 
 ## ⭐ Coursework
--   📕 **CSE 20** Introduction to Python 
--   📗 **CSE 30** Programming Abstractions: Python
--   📘 **CSE 12** Computer Systems & Assembly Language 
--   📙 **CSE 13S** Computer Systems & C Programming 
--   📕 **CSE 16** Discrete Math
--   📗 **CSE 101** Data Structures & Algorithms 
--   📘 **CSE 120** Computer Architecture
--   📙 **CSE 130** Principles of Computer Systems Design
+-   **CSE 20**: Introduction to Python 
+-   **CSE 30**: Programming Abstractions: Python
+-   **CSE 12**: Computer Systems & Assembly Language 
+-   **CSE 13S**: Computer Systems & C Programming 
+-   **CSE 16**: Discrete Math
+-   **CSE 101**: Data Structures & Algorithms 
+-   **CSE 120**: Computer Architecture
+-   **CSE 130**: Principles of Computer Systems Design
 
 ## 🛠️ Skills
 
