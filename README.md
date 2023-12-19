@@ -1,12 +1,12 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🚀 About Me
+## About Me
 
 My name is Ria - I'm a third-year UC Santa Cruz **Computer Science B.S.** student + **programmer and 3D artist** (specializing in **Front-end** and **3D design**).
 
 With about seven years of experience in **3D design** and around three years in **web development**, I've had the chance to intern as a web developer for Streetline Inc. and [**Tech4Good**](https://tech4good.soe.ucsc.edu/#/), intern as a **3D scripter** for [**CyArk**](https://www.cyark.org/), create websites like [**Spcwby.com**](https://spcwby.com/), and work as a **3D modeler** for a range of companies and startups, including [**Virbela**](https://www.virbela.com/) and [**Augmio**](https://www.augmio.com/). In addition to design, I have three years of experience with Python and C/C++.
 
-## ⭐ Coursework
+## Coursework
 -   **CSE 20**: Introduction to Python 
 -   **CSE 30**: Programming Abstractions: Python
 -   **CSE 12**: Computer Systems & Assembly Language 
